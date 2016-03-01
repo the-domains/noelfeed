@@ -1,0 +1,28 @@
+name: NoëlFeed
+favicon: null
+layout_spectrum: 0.3475781809538603
+typography_spectrum: 0.11714919656515121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6276385774835944
+  lightness: 0.6153689075727016
+  saturation: 0.5833143431227654
+  rhythmicContrast: 0.0498195078689605
+purpose: []
