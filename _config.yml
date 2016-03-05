@@ -1,7 +1,7 @@
 name: NoëlFeed
 favicon: null
-layout_spectrum: 0.99619
-typography_spectrum: 0.16906
+layout_spectrum: 0
+typography_spectrum: 0.4746
 cta:
   domain: null
   bucket: null
